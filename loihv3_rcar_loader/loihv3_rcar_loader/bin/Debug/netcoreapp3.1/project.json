@@ -1,0 +1,53 @@
+{
+    "timeout": "5000",
+    "com":
+    {
+        "port": "COM5",
+        "dataBits": "8",
+        "parity": "NONE",
+        "baudrate": "115200",
+        "stopBits": "1"
+    },
+    "log":{
+        "enable": "FALSE",
+        "path": ""
+    },
+    "sequence": 
+    [
+        {
+            "type": "SET_BAUD",
+            "value": "115200"
+        },
+        {
+            "type": "READ_UTIL",
+            "endValue": "CL_RF",
+            "foundContent": ""
+        },
+        {
+            "type": "SEND_FILE",
+            "filePath": ""
+        },
+        {
+            "type": "SEND_CHECK",
+            "checkType": "MD5",
+            "filePath": ""
+        },
+        {
+            "type": "READ_UTIL",
+            "endValue": "CL_RF",
+            "foundContent": ""
+        },
+        {
+            "type": "SEND_DATA",
+            "value": "1"
+        },
+        {
+            "type": "SET_BAUD",
+            "value": "921600"
+        },
+        {
+            "type": "EXIT"
+        }
+
+    ]
+}

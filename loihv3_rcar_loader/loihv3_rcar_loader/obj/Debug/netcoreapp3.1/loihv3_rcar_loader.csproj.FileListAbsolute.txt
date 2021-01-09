@@ -1,0 +1,15 @@
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\obj\Debug\netcoreapp3.1\loihv3_rcar_loader.csprojAssemblyReference.cache
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\obj\Debug\netcoreapp3.1\loihv3_rcar_loader.AssemblyInfoInputs.cache
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\obj\Debug\netcoreapp3.1\loihv3_rcar_loader.AssemblyInfo.cs
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\obj\Debug\netcoreapp3.1\loihv3_rcar_loader.genruntimeconfig.cache
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\bin\Debug\netcoreapp3.1\loiefy_loader.exe
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\bin\Debug\netcoreapp3.1\loiefy_loader.deps.json
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\bin\Debug\netcoreapp3.1\loiefy_loader.runtimeconfig.json
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\bin\Debug\netcoreapp3.1\loiefy_loader.runtimeconfig.dev.json
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\bin\Debug\netcoreapp3.1\loiefy_loader.dll
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\bin\Debug\netcoreapp3.1\loiefy_loader.pdb
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\obj\Debug\netcoreapp3.1\loiefy_loader.dll
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\obj\Debug\netcoreapp3.1\loiefy_loader.pdb
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\obj\Debug\netcoreapp3.1\loihv3_rcar_loader.csproj.CoreCompileInputs.cache
+G:\Project\23.RcarLoader\loihv3_rcar_loader\loihv3_rcar_loader\obj\Debug\netcoreapp3.1\loihv3_rcar_loader.csproj.CopyComplete
