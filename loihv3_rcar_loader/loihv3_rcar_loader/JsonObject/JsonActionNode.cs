@@ -12,5 +12,6 @@ namespace loiefy_loader
         public string foundContent { get; set; }
         public string filePath { get; set; }
         public string checkType { get; set; }
+        public string timeout { get; set; }
     }
 }
